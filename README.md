@@ -73,9 +73,8 @@ This course focuses on the **fundamentals of back-end development**, including *
 📢 **Want to collaborate?** Feel free to explore, fork, and contribute! 🤝  
 
 📌 **Connect with me:**  
-🔗 [GitHub Profile](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
+🔗 [GitHub Profile]https://github.com/fenilghael
+🔗 [LinkedIn]www.linkedin.com/in/fenil-ghael-1680752a8
 
----  
-✍️ *Maintained by [Your Name](https://github.com/yourusername).*  
+
 🎯 *Always learning, always growing!* 🌱
